@@ -2,8 +2,36 @@ import React from 'react';
 import type { IconProps } from '../types';
 
 export const OHIFLogo = (props: IconProps) => (
-  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100%" viewBox="0 0 866 288" enable-background="new 0 0 866 288" xml:space="preserve">
+  <svg
+    width="138px"
+    height="28px"
+    viewBox="0 0 138 28"
+    version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    {...props}
+  >
+    <g
+      id="Production"
+      stroke="none"
+      strokeWidth="1"
+      fill="none"
+      fillRule="evenodd"
+    >
+      <g
+        id="Artboard"
+        transform="translate(-74, -297)"
+      >
+        <g
+          id="toolbar-branding-open-health-imaging-foundation"
+          transform="translate(74, 297)"
+        >
+          <rect
+            id="Rectangle"
+            x="0"
+            y="0"
+            width="138"
+            height="28"
+          ></rect>
 <path fill="#000000" opacity="1.000000" stroke="none" 
 	d="
 M597.000000,289.000000 
