@@ -31,7 +31,7 @@ module.exports = {
       primary: {
         light: '#5acce6',
         main: '#0944b3',
-        dark: '#090c29',
+        dark: '#0ab2b5',
         active: '#348cfd',
       },
       inputfield: {
