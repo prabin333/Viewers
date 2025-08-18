@@ -143,7 +143,7 @@ module.exports = {
         logo: {
           alt: 'OHIF Logo',
           src: 'img/ohif-logo-light.svg',
-          srcDark: 'img/ohif-logo.svg',
+          srcDark: 'img/dr_scg.svg',
         },
         items: [
           {
