@@ -35,7 +35,7 @@ export const InvestigationalUse = (props: IconProps) => (
             >
               <rect
                 id="Rectangle"
-                fill="#0ab2b5"
+                fill="#090C29"
                 opacity="0.900000036"
                 x="0"
                 y="0"
