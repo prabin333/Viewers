@@ -33,7 +33,7 @@ export const OHIFLogo = (props: IconProps) => (
             height="28"
           ></rect>
           <svg version="1.1" width="138" height="28" viewBox="0 0 866 288" preserveAspectRatio="xMidYMid slice">
-            <path fill="#FFFFFF" opacity="1.000000" stroke="none" 
+            <path fill="#000000" opacity="1.000000" stroke="none" 
               d="
             M597.000000,289.000000 
               C398.000061,289.000000 199.500092,289.000000 1.000107,289.000000 
