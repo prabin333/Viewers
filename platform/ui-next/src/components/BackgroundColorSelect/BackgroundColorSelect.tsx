@@ -27,7 +27,7 @@ const BackgroundColorSelect: React.FC = () => {
         <SelectContent>
           <SelectItem value="black">Viewport (Black)</SelectItem>
           <SelectItem value="#050615">Base</SelectItem>
-          <SelectItem value="#0ab2b5">Medium</SelectItem>
+          <SelectItem value="#090C29">Medium</SelectItem>
           <SelectItem value="#041C4A">Header</SelectItem>
         </SelectContent>
       </Select>
