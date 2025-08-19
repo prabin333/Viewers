@@ -10,7 +10,7 @@ import {
   ToolButton,
 } from '../';
 import { IconPresentationProvider } from '@ohif/ui-next';
-
+import DoctorAssistLogo from './DoctorAssistLogo.png';
 import NavBar from '../NavBar';
 
 // Todo: we should move this component to composition and remove props base
@@ -72,7 +72,10 @@ function Header({
             >
               {isReturnEnabled && <Icons.ArrowLeft className="text-primary ml-1 h-7 w-7" />}
               <div className="ml-1">
-                {WhiteLabeling?.createLogoComponentFn?.(React, props) || <Icons.OHIFLogo />}
+                {WhiteLabeling?.createLogoComponentFn?.(React, props) || (
+  <img src={DoctorAssistLogo} alt="DoctorAssist.AI Logo" className="h-8 object-contain" />
+)}
+
               </div>
             </div>
           </div>
