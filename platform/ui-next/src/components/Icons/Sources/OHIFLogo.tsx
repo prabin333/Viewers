@@ -34,7 +34,7 @@ export const OHIFLogo = (props: IconProps) => (
           ></rect>
           <svg version="1.1" width="138" height="28" viewBox="0 0 866 288" preserveAspectRatio="xMidYMid slice">
             <style>
-              .logo-text { fill: #FFFFFF !important; }
+              {`.logo-text { fill: #FFFFFF !important; }`}
             </style>
             <path className="logo-text" opacity="1.000000" stroke="none" 
               d="
