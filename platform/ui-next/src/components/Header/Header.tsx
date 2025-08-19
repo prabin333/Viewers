@@ -73,7 +73,7 @@ function Header({
               {isReturnEnabled && <Icons.ArrowLeft className="text-primary ml-1 h-7 w-7" />}
               <div className="ml-1">
                 {WhiteLabeling?.createLogoComponentFn?.(React, props) || (
-  <img src={DoctorAssistLogo} alt="DoctorAssist.AI Logo" className="h-8 object-contain" />
+  <img src={DoctorAssistLogo} alt="DoctorAssist.AI Logo" className="h-12 object-contain" />
 )}
 
               </div>
