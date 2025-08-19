@@ -3,8 +3,8 @@ import type { IconProps } from '../types';
 
 export const OHIFLogo = (props: IconProps) => (
   <svg
-    width="138px"
-    height="28px"
+    width="800px"
+    height="800px"
     viewBox="0 0 138 28"
     version="1.1"
     xmlns="http://www.w3.org/2000/svg"
