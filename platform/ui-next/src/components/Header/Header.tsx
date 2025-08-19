@@ -10,7 +10,7 @@ import {
   ToolButton,
 } from '../';
 import { IconPresentationProvider } from '@ohif/ui-next';
-import DoctorAssistLogo from './DoctorAssistLogo.png';
+import DoctorAssistLogo from './DoctorAssistLogo1.png';
 import NavBar from '../NavBar';
 
 // Todo: we should move this component to composition and remove props base
